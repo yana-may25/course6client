@@ -1,0 +1,21 @@
+/* @import "abstract/constants";
+
+@import "base/normalize";
+@import "base/base";
+@import "base/swiper-init";
+
+@import "layouts/header";
+@import 'layouts/wrapper';
+@import "layouts/footer";
+@import "layouts/main";
+
+@import "components/loader";
+@import "components/button";
+@import "components/input";
+@import "components/card";
+@import "components/swiper";
+@import "components/keyboard";
+
+
+
+ */
